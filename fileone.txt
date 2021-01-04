@@ -1,3 +1,5 @@
 text for the file onw by using the echo command.
 
 Adding a new line for the file one.
+
+Adding the line for the recoeding and demo of git working.
