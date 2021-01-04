@@ -1,0 +1,7 @@
+//Creating a new file three for the learning of the push command for a new object
+
+public static void main(String args[]) {
+
+system.out.println("Hi, first command in git !!!");
+
+}
